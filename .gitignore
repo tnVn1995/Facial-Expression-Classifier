@@ -1,0 +1,16 @@
+# Ignore folders
+.ipynb*/
+.vscode/
+ckplus/
+
+# Ignore data
+/data/*
+#Exception to data
+!/data/placeholder.txt
+
+
+facial-expression/
+results/
+/models/*
+!/models/bn_dp_image_augmentation/
+
